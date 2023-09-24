@@ -11,6 +11,7 @@ class App extends Component {
           <p>
             Hello from Render!
           </p>
+          <p>And hello from Julia!</p>
           <a
             className="App-link"
             href="https://reactjs.org"
