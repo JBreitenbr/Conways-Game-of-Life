@@ -26,7 +26,7 @@ main {
   margin-left: auto;
   margin-right: auto;
   padding: 8px;
-  width: 330px;
+  width: 370px;
 }
 
 .sliderLight {
@@ -81,7 +81,7 @@ main {
 @media screen and (min-width: 768px) {
   .game_description {
     font-size: 14px;
-    width: 400px;
+    width: 450px;
     padding: 12px;
   }
 
@@ -158,7 +158,7 @@ main {
   .game_description{
     font-size: 20px;
     padding: 24px;
-    width: 470px;
+    width: 520px;
   }
 
   #title {
@@ -213,7 +213,7 @@ main {
   .game_description{
     font-size: 24px;
     padding: 36px;
-    width: 680px;
+    width: 720px;
   }
   
   .slider-desc {
